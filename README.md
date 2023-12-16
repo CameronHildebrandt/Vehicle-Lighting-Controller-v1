@@ -1,1 +1,1 @@
-# Vehicle-Lighting-Controller-v1-
+# Vehicle-Lighting-Controller-v1
